@@ -1,0 +1,11 @@
+streamlit
+datetime
+calender
+pandas
+folium
+request
+matplotlib
+pyproj==3.6.1
+earthengine-api
+numpy
+plotly
